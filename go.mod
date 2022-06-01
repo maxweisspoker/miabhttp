@@ -1,4 +1,4 @@
-module miabhttp
+module github.com/maxweisspoker/miabhttp
 
 go 1.18
 
