@@ -786,6 +786,7 @@ func (c *Context) UpdateDns(force int) (string, error) {
 // returns []map[string]interface{} if err == nil, otherwise returns string
 //
 // Example slice item of map[string]interface{} with all values:
+//
 //	{
 //		"qname": "box.example.com",
 //		"rtype": "A",
@@ -796,6 +797,7 @@ func (c *Context) UpdateDns(force int) (string, error) {
 //		"value": "1.2.3.4",
 //		"zone": "example.com"
 //	}
+//
 // The interface{} value of the map is a string for everything but sort-order,
 // which is a map[string]int
 func (c *Context) GetDnsCustomRecords() (interface{}, error) {
@@ -1059,6 +1061,7 @@ func (c *Context) RemoveDnsCustomARecord(qname, value string) (string, error) {
 // "qname", "rtype", and "value".
 //
 // Example:
+//
 //	[
 //		[
 //			"box.example.com",
