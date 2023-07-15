@@ -1,4 +1,4 @@
-github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d h1:Byv0BzEl3/e6D5CLfI0j/7hiIEtvGVFPCZ7Ei2oq8iQ=
-github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
+github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 h1:DklsrG3dyBCFEj5IhUbnKptjxatkF07cF2ak3yi77so=
+github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
 github.com/mikekonan/go-countries v1.1.2 h1:NTkf5myJSEuzex5N7XLEO+iHxSirferm3WKVZqoucBc=
 github.com/mikekonan/go-countries v1.1.2/go.mod h1:xedjaVuxceyNbu1NwPNsSRud3rG07/vQGkFh+Ec2YQ8=
